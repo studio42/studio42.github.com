@@ -1,3 +1,7 @@
+---
+layout: default
+title: Studio42 GitHub readme
+---
 Studio 42 Page 
 =============
 
