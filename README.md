@@ -1,4 +1,4 @@
-jetstrap-docs
+Studio 42 Page 
 =============
 
-Jetstrap Documentation and Tutorials
+Repo for the main Github Page
